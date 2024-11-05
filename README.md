@@ -1,19 +1,19 @@
 # lita_customer
 ## customer data
 
-[project overview](project-overview)
+[project overview](#project-overview)
 
-[Data Sources](Data-Sources)
+[Data Sources](#Data-Sources)
 
-[Tools Used](Tools-Used)
+[Tools Used](#Tools-Used)
 
-[Data Cleaning and Preparation](Data-Cleaning-and-Preparation)
+[Data Cleaning and Preparation](#Data-Cleaning-and-Preparation)
 
-[Exploratory Data Analysis](Exploratory-Data-Analysis)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
-[Data Analysis](Data-Analysis)
+[Data Analysis](#Data-Analysis)
 
-[Data Summary](Data-Summary)
+[Data Summary](#Data-Summary)
 
 ### project overview
 This project aims to analyze customer subscription data to gain insights into subscription trends , and customer behavior. The results will guide decision-making in areas like customer retention, marketing strategies, and subscription plan optimization.
